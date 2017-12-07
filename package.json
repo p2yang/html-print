@@ -1,6 +1,6 @@
 {
   "name": "html-print",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/print.min.js",
   "scripts": {

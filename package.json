@@ -1,7 +1,7 @@
 {
   "name": "html-print",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "html print for browser, based from print.js",
   "main": "dist/print.min.js",
   "scripts": {
     "dev": "NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
